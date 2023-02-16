@@ -1,2 +1,5 @@
-# meu_projeto
-Repositório de teste
+# Exemplo de Projeto
+
+## Curso de Desenvolvimento de Sistemas
+
+Este é um exemplo de projeto com git
